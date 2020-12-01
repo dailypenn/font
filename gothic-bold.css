@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'RamaGothicC-Bold';
+    src: url('./gothic-bold/gothic-bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
