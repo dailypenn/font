@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Margo';
+  src: url('./margo/margo-condensed.woff') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
